@@ -1,3 +1,4 @@
+import br.com.dio.poojava.dominio.Conteudo;
 import br.com.dio.poojava.dominio.Curso;
 import br.com.dio.poojava.dominio.Mentoria;
 
